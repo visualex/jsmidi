@@ -1,4 +1,11 @@
-midi-js
+jsmidi
 =======
 
-Javascript Midi utility script, recieves midi input from instruments and controllers. Works on Chrome 33+
+# Javascript Midi tool
+
+Recieve midi input directly from instruments, controllers and DAWs.
+
+## TODO
+npm package 
+send
+
