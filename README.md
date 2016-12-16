@@ -1,7 +1,5 @@
-jsmidi
+jsmidi is a Javascript Midi tool
 =======
-
-# Javascript Midi tool
 
 Recieve midi input directly from instruments, controllers and DAWs.
 
