@@ -1,10 +1,6 @@
 /*
-Wrapped in an easy to use utility class.
-Taken from http://webaudio.github.io/web-midi-api/
 
-Works with Chrome 33+ Under Windows, Mac
-1) Go to chrome://flags/#enable-web-midi and enable. Restart chrome if under windows.
-2) Check your console if things are not working afterwards.
+MIDI API: http://webaudio.github.io/web-midi-api/
 
 Usage:
 //define some functions to recieve input like so:
